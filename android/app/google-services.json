@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "540406469134",
+    "project_id": "ud-almeria",
+    "storage_bucket": "ud-almeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540406469134:android:54a25cd6576646cc8f225f",
+        "android_client_info": {
+          "package_name": "com.Handosa2023.UDAlmeria22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540406469134-25f7u4ke32subki3i378sjtnsg5p1gds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKR6ZXeSGTdGuW56DEE3btzvKTd5T85-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540406469134-25f7u4ke32subki3i378sjtnsg5p1gds.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540406469134-mp3699d9rr5ekeueim5f381gmrrffpjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.almeria111"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540406469134:android:b100a9dff49fdcd28f225f",
+        "android_client_info": {
+          "package_name": "com.udalmeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540406469134-25f7u4ke32subki3i378sjtnsg5p1gds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKR6ZXeSGTdGuW56DEE3btzvKTd5T85-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540406469134-25f7u4ke32subki3i378sjtnsg5p1gds.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540406469134-mp3699d9rr5ekeueim5f381gmrrffpjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.almeria111"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

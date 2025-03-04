@@ -1,0 +1,3 @@
+MAINENV=this is \".env.staging\" file
+ENV=staging
+API_URL=https:/$()/backend.tactec.link
